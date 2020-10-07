@@ -1,1 +1,3 @@
 Cambios desde el GitKraken local con herramienta de texto normal.
+
+Se crearon cambios en el archivo de texto y se ha creado una rama.
